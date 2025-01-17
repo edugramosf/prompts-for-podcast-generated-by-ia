@@ -34,7 +34,7 @@ Utilizei prompts para gerar cada etapa do processo criativo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [OpenArt.ai](https://https://openart.ai/)
+- [OpenArt](https://https://openart.ai/)
 - [Microsoft Designer](https://designer.microsoft.com/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Capcut](https://www.capcut.com/pt-br/)
